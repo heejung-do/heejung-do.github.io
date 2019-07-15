@@ -243,7 +243,8 @@ section h2
     display: none;
     height: 100%;
     color: #fff;
-    background-color: rgba(0, 0, 0, .7);
+    background-color: rgba(0, 0, 0, .6);
+
 }
 #works .works-box a .works-box-inner div
 {
